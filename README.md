@@ -6,3 +6,4 @@
 # Szia Gellért
 # Ola
 # Yoho
+# Daijoubu boku no saikyoo dakara
