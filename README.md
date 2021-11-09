@@ -10,6 +10,4 @@
 # # Daijoubu boku no saikyoo dakara
 # ez új
 # bla bla bla
-# ötlet hello
-# próba
-# sdkfhadwjf
+
