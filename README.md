@@ -8,3 +8,4 @@
 # Yoho
 # Yamete kodasaj
 # # Daijoubu boku no saikyoo dakara
+# ez új
